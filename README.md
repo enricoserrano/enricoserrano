@@ -1,5 +1,14 @@
-### Hi there 👋
+![Banner](https://raw.githubusercontent.com/enricoserrano/enricoserrano/master/profilebanner.png)
 
+### Hi there 👋 I am a student studying at Auckland University of Technology (AUT) majoring in Software Development. I love problem-solving and designing apps that could make a positive change for the world. 
+<br>
+📚 - I currently have academic experience with C, Java, Python, HTML and CSS. 
+<br>
+⚙️ - Tools used: Oracle Developer, Netbeans, Eclipse, Visual Studio, Visual Studio Code, Notepad++, IDLE.
+<br>
+⏰ - In my free time, I like to develop simple websites and increase my experience with programming.
+<br>
+📧 - You can reach me through (enricoserrano13@gmail.com)
 <!--
 **enricoserrano/enricoserrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
