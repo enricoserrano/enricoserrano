@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/enricoserrano/enricoserrano/master/profilebanner.png)
 
-### Hi there 👋 I am a student studying at Auckland University of Technology (AUT), majoring in Software Development. I love problem-solving and designing apps that could positively change the world. 
+### Hi there 👋 I am a Data Engineer Intern at ezyVet with Computing and Information Sciences Degree (Major in Software Development and minor Information Service Science) at AUT.
 <br>
 📚 - I currently have experience with C, Java, Python, HTML/CSS, AWS (S3, CLI, EC2), PHP, C#, GIT, DOCKER, and AGILE Process. 
 <br>
