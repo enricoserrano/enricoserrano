@@ -6,7 +6,7 @@
 <br>
 ⚙️ - Tools used: Oracle Developer, Netbeans, Eclipse, Visual Studio, Visual Studio Code, Notepad++, IDLE, GoDaddy, Firebase, and AWS CLI.
 <br>
-⏰ - In my free time, I like to develop simple websites and increase my knowledge of programming.
+⏰ - I am currently a data engineer intern @ezyVet and is working on data extraction, conversion, and helping clients migrate their legacy PMS into our ezyVet application through the AWS cloud
 <br>
 📧 - You can reach me through (enricoserrano13@gmail.com)
 <br>
