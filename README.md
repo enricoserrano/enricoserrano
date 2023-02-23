@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/enricoserrano/enricoserrano/master/profilebanner.png)
 
-### Hi there 👋 I am a Data Engineer Intern at ezyVet with Computing and Information Sciences Degree (Major in Software Development and minor Information Service Science) at AUT.
+### Hi there 👋 I am a Junior Data Engineer ezyVet with Computing and Information Sciences Degree (Major in Software Development and minor Information Service Science) at AUT.
 <br>
 📚 - I currently have experience with C, Java, Python, HTML/CSS, AWS (S3, CLI, EC2), PHP, C#, GIT, DOCKER, and AGILE Process. 
 <br>
